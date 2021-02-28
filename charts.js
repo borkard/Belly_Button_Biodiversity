@@ -134,7 +134,7 @@ function buildCharts(sample) {
           r: 100,
           t: 100,
           b: 30
-        }, hovermode: "closest"
+        }, hovermode: "closest",
     };
 
     // 3. Use Plotly to plot the data with the layout.
